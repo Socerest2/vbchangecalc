@@ -1,0 +1,17 @@
+C:\Users\vince\Source\Repos\cakculator\cakculator\bin\Debug\net6.0-windows\cakculator.exe
+C:\Users\vince\Source\Repos\cakculator\cakculator\bin\Debug\net6.0-windows\cakculator.deps.json
+C:\Users\vince\Source\Repos\cakculator\cakculator\bin\Debug\net6.0-windows\cakculator.runtimeconfig.json
+C:\Users\vince\Source\Repos\cakculator\cakculator\bin\Debug\net6.0-windows\cakculator.dll
+C:\Users\vince\Source\Repos\cakculator\cakculator\bin\Debug\net6.0-windows\ref\cakculator.dll
+C:\Users\vince\Source\Repos\cakculator\cakculator\bin\Debug\net6.0-windows\cakculator.pdb
+C:\Users\vince\Source\Repos\cakculator\cakculator\obj\Debug\net6.0-windows\cakculator.vbproj.AssemblyReference.cache
+C:\Users\vince\Source\Repos\cakculator\cakculator\obj\Debug\net6.0-windows\cakculator.Form1.resources
+C:\Users\vince\Source\Repos\cakculator\cakculator\obj\Debug\net6.0-windows\cakculator.vbproj.GenerateResource.cache
+C:\Users\vince\Source\Repos\cakculator\cakculator\obj\Debug\net6.0-windows\cakculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\Source\Repos\cakculator\cakculator\obj\Debug\net6.0-windows\cakculator.AssemblyInfoInputs.cache
+C:\Users\vince\Source\Repos\cakculator\cakculator\obj\Debug\net6.0-windows\cakculator.AssemblyInfo.vb
+C:\Users\vince\Source\Repos\cakculator\cakculator\obj\Debug\net6.0-windows\cakculator.vbproj.CoreCompileInputs.cache
+C:\Users\vince\Source\Repos\cakculator\cakculator\obj\Debug\net6.0-windows\cakculator.dll
+C:\Users\vince\Source\Repos\cakculator\cakculator\obj\Debug\net6.0-windows\ref\cakculator.dll
+C:\Users\vince\Source\Repos\cakculator\cakculator\obj\Debug\net6.0-windows\cakculator.pdb
+C:\Users\vince\Source\Repos\cakculator\cakculator\obj\Debug\net6.0-windows\cakculator.genruntimeconfig.cache
